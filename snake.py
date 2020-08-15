@@ -28,7 +28,7 @@ snake_cor.fill((255,255,255))
 
 laranja_pos = on_grid_random()
 laranja_cor = pygame.Surface((10,10))
-laranja_cor.fill((255,165,0))
+laranja_cor.fill((255,0,0))
 
 
 direcao = LEFT
